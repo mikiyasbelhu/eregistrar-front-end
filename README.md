@@ -1,4 +1,4 @@
-# HIP-boilerplate
+# Eregistrar
 
 ## Project setup
 ```
